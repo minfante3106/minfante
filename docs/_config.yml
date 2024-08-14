@@ -6,4 +6,4 @@ author:
 description: "An RDI Operations Central Hub"
 
 # Build settings
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: pages-themes/cayman
